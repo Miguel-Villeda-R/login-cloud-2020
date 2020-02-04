@@ -913,7 +913,7 @@ ul.countdown li {
 	position: relative;
 	float: left;
 	display: inline-block;
-	width: 80px;
+	
 	min-height: 1px;
 	margin: 0;
 	padding: 0;
