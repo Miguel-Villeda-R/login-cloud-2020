@@ -556,14 +556,25 @@ a:focus {
 	fill: currentColor;
 }
 
-main {
+main{
 	position: relative;
 	width: 100%;
 	background-position: center center;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-image: url('../img/background.jpg');
+
 }
+#video_background {
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
+	z-index: -1000;
+	overflow: hidden;
+	}
 .content {
 	position: relative;
 	display: flex;
