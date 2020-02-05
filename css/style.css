@@ -1147,16 +1147,7 @@ ul.countdown li p {
 /* #Gallery & sponsors
 ================================================== */
 
-.gallery {
-	position: relative;
-	display: block;
-	cursor: pointer;
-}
 
-
-.gallery:hover:after{
-	opacity: 1;
-}
 
 .sponsors {
 	position: relative;
