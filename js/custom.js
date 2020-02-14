@@ -86,14 +86,6 @@
 		
 		//Countdown
 		
-        $('.countdown').downCount({
-            date: '22/02/2020 12:00:00'
-		}, 
-		function () 
-		{
-            alert('WOOT WOOT, done!');
-        });
-
 		
 		//Animated Icons
 		
