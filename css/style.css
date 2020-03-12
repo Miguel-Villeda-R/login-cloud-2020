@@ -897,7 +897,7 @@ ul.countdown {
 	max-width: 360px;
 	list-style: none;
 	margin: 0 auto;
-	padding: 0px;
+	padding: 20px;
 	padding-bottom: 0;
 	padding-top: 25px;
 	display: block;
@@ -1551,12 +1551,13 @@ ul.countdown li p {
 		padding-bottom: 0;
 	}
 	ul.countdown li {
-		width: 75px;
-		padding-bottom: 30px;
+		
+		padding-bottom: 15px;
 	}
 	ul.countdown li span {
+	
 		font-size: 30px;
-		line-height: 0.9;
+		line-height: 1;
 		font-weight: 500;
 	}
 	ul.countdown li p {
